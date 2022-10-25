@@ -1,7 +1,7 @@
 {
   "name": "HEROKU RCLONE SERVE INDEX",
   "description": "A rclone serve index using Docker",
-  "repository": "https://github.com/developeranaz/HEROKU-RCLONE-SERVE-INDEX",
+  "repository": "https://github.com/gapemaster3/gapemastervault",
   "logo": "https://forum.rclone.org/uploads/default/original/2X/0/0f430bb0f2f7a9ed020a9e93c89f4d332adcac4b.gif",
   "keywords": ["nginx", "fileindex", "mega", "onedrive", "remote-index", "anyremote", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],
   "env": {
@@ -17,6 +17,6 @@
 
   },
   "website": "",
-  "repository": "",
+  "repository": "https://github.com/gapemaster3/gapemastervault",
   "stack": "container"
  }
